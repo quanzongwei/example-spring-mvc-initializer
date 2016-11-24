@@ -37,5 +37,6 @@ class IndexController {
         Map map = new HashMap();
         map.put("name", "zhangsan");
         return map;
+
     }
 }
